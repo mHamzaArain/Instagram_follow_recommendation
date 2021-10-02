@@ -1,4 +1,4 @@
-# Facebook Follow Recommendation System
+# Instagram Follow Recommendation System
 <p style="font-size:32px;text-align:center"> <b>Social network Graph Link Prediction - Facebook Challenge</b> </p>
 
 ### Problem statement: 
